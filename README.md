@@ -40,7 +40,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![CSS](hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=000)
 
 ### DevOps & Tools
 
