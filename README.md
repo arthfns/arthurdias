@@ -46,6 +46,10 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=000)
 
+###  Embedded / Hardware
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=000)
+
 
 ### DevOps & Tools
 
@@ -63,4 +67,3 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
-
