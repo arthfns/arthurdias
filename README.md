@@ -36,11 +36,16 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### FrontEnd
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=000)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=000)
+
+### BackEnd
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=000)
+
 
 ### DevOps & Tools
 
@@ -58,3 +63,4 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
+
